@@ -1,2 +1,3 @@
 # hello-world
-Time honored tradition of learning something new is "hello world"
+
+Let's make and commit changes !
